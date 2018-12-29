@@ -1,0 +1,66 @@
+﻿<Window x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="Style_Button" TargetType="Button"> <!--הגדרת כפתור בסיסי עם הכתב שלנו, צבע וכו-->
+            <Setter Property="FontFamily" Value="Gan CLM"/>
+        </Style>
+        <Style x:Key="Style_Label" TargetType="Label">
+            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0,0,-88,0"/>
+        </Style>
+        <Style x:Key="Style_TextBox" TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Name="Top_half">
+            <!--גריד לחלק העליון, צד ימני לוגו וצד שמאלי שאילתות-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <Grid Name="Bottom_Half" Grid.Row="1">
+            <!--גריד לחלק התחתון, טסטר, תלמיד וטסט-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Style="{StaticResource Style_Button}" Content="טסטר" Grid.Column="1" Margin="30" FontSize="48" Click="Tester_Click"/>
+            <Button Style="{StaticResource Style_Button}" Content="תלמיד"  Margin="30" FontSize="48" Click="Trainee_Click"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Style="{StaticResource Style_Button}" Content="הנהלה"  Margin="20" FontSize="36"  Click="Administration_Click"/>
+                <Button Style="{StaticResource Style_Button}" Grid.Row="1" Content="תוספות"  Margin="20" FontSize="36" Click="Linq_Click"/>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

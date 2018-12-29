@@ -1,0 +1,32 @@
+﻿<Window x:Class="PLWPF.MainAdministrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MainAdministrationWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="Style_Button" TargetType="Button">
+            <!--הגדרת כפתור בסיסי עם הכתב שלנו, צבע וכו-->
+            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="FontSize" Value="32"/>
+            <Setter Property="Margin" Value="50,10"/>
+        </Style>
+    </Window.Resources>
+        
+
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Content="הוספת טסטר" Style="{StaticResource Style_Button}" Grid.Row="1" Click="Button_Click"/>
+        <Button Content="מחיקת טסטר" Style="{StaticResource Style_Button}" Grid.Row="2"/>
+        <Button Content="מחיקת מבחן" Style="{StaticResource Style_Button}" Grid.Row="3"/>
+        <Button Content="מחיקת תלמיד" Style="{StaticResource Style_Button}" Grid.Row="4"/>
+ </Grid>
+</Window>

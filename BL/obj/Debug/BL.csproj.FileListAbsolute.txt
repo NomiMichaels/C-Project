@@ -1,0 +1,90 @@
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\BL.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\BL.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\BE.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\DAL.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\BE.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\bin\Debug\DAL.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\obj\Debug\BL.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\מה שנעמי עשתה\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\11.12\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\18_12_18\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\BE.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\bin\Debug\DAL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.csproj.CopyComplete
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\סיום חלק א\DotNet_project_01_5882_3499\DotNet_project_01_5882_3499\BL\obj\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\BE.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\DAL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\BE.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\obj\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BL\obj\Debug\BL.pdb

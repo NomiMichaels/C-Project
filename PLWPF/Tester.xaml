@@ -1,0 +1,20 @@
+﻿<Window x:Class="PLWPF.Tester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Tester" Height="300" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Name="Tester_login" Grid.Row="1">
+            <TextBlock Text="הכנס תעודת זהות" FontSize="24" FontFamily="Gan CLM" Height="40" Margin="130,50,130,0"/>
+            <PasswordBox Name="Tester_Password" Height="38" Margin="100,0" FontSize="25" MaxLength="9"/>
+       </StackPanel>
+        <Button Content="אישור" FontSize="20" FontFamily="Gan CLM" Margin="168,148,213,10" Grid.Row="1" Click="Button_Click" />
+    </Grid>
+</Window>

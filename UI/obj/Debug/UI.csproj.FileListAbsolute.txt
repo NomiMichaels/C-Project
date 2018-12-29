@@ -1,0 +1,42 @@
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\UI.exe.config
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\UI.exe
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\UI.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\BE.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\BL.dll
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\BE.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\bin\Debug\BL.pdb
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\obj\Debug\UI.exe
+C:\Users\User\Downloads\DotNet_5882_3499\DotNet_5882_3499\UI\obj\Debug\UI.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\UI.exe.config
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\UI.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\DotNet_project_01_5882_3499\UI\obj\Debug\UI.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\UI.exe.config
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\UI.exe
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\UI.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\BE.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\BL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\DAL.dll
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\BE.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\BL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\bin\Debug\DAL.pdb
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.exe
+C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.pdb
