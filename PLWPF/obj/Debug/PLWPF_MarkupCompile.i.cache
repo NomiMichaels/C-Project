@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\PLWPF\obj\Debug\
+C:\Git\C-Project\PLWPF\obj\Debug\
 PLWPF
 none
 false
 DEBUG;TRACE
-C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\PLWPF\App.xaml
+C:\Git\C-Project\PLWPF\App.xaml
 8457476616
 
 161781035865
-19833212244
+19620495652
 addTesterWindow.xaml;addTraineeWindow.xaml;Administration.xaml;Linq.xaml;MainAdministrationWindow.xaml;MainWindow.xaml;Tester.xaml;Trainee.xaml;
 
-False
+True
 

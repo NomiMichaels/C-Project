@@ -165,5 +165,11 @@
       <Name>BL</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Mishrad_hatacbora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="מסך ראשי.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
