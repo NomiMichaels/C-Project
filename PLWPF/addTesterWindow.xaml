@@ -8,7 +8,73 @@
         mc:Ignorable="d"
         Title="addTesterWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <Window.Resources>
+        <Style x:Key="Style_Label" TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0,0,0,0"/>
+        </Style>
+        <Style x:Key="Style_TextBox" TargetType="TextBox">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
         <CollectionViewSource x:Key="testerViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Tester}, CreateList=True}"/>
+        <CollectionViewSource x:Key="testergearBoxViewSource" Source="{Binding gearBox, Source={StaticResource testerViewSource}}"/>
+        <CollectionViewSource x:Key="testervehicleTypeViewSource" Source="{Binding vehicleType, Source={StaticResource testerViewSource}}"/>
     </Window.Resources>
-    <Grid DataContext="{StaticResource testerViewSource}"/>
+    <Grid>
+        <Grid x:Name="grid1" Margin="20,40,20,20" DataContext="{StaticResource testergearBoxViewSource}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="תעודת זהות" Style="{StaticResource Style_Label}"   Grid.Column="3" Grid.Row="0"/>
+            <TextBox x:Name="_IDTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2" Grid.Row="0" HorizontalContentAlignment="Left" Text="{Binding _ID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+            <Label Content="שם פרטי" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="1" />
+            <TextBox x:Name="firstNameTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2"  Grid.Row="1" Text="{Binding firstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+            <Label Content="שם משפחה" Style="{StaticResource Style_Label}"  Grid.Column="3" Grid.Row="2"/>
+            <TextBox x:Name="lastNameTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2"  Grid.Row="2" Text="{Binding lastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+            <Label Content="מין" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="3"/>
+            <ComboBox x:Name="genderComboBox" Grid.Column="2" SelectedItem="{Binding gender}" HorizontalContentAlignment="Right" Margin="5" Grid.Row="3" />
+            <Label Content="תאריך לידה" Style="{StaticResource Style_Label}" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" Margin="136.333,4.667,0.333,0" VerticalAlignment="Top"/>
+            <DatePicker x:Name="birthDateDatePicker"  Grid.Column="2" Grid.Row="4" Margin="5" HorizontalContentAlignment="Right" SelectedDate="{Binding BirthDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+            <Label Content="טלפון" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="5"/>
+            <TextBox x:Name="phoneNumTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2" Grid.Row="5" HorizontalContentAlignment="Left" Text="{Binding PhoneNum, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+            <!--כתובת-->
+
+            <Label Content="Experience Years:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="2" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="experienceYearsTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3.333,4,0,4" Grid.Row="7" Text="{Binding ExperienceYears, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+
+            <Label Content="Max Distence To Test:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="6" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="maxDistenceToTestTextBox" Grid.Column="2" HorizontalAlignment="Left" Height="24" Margin="3.333,4,0,4" Grid.Row="6" Text="{Binding MaxDistenceToTest, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Max Test Per Week:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="7" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="maxTestPerWeekTextBox" Grid.Column="2" HorizontalAlignment="Left" Height="24" Margin="3.333,4,0,4" Grid.Row="7" Text="{Binding MaxTestPerWeek, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Valid Certification:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="9" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+            <DatePicker x:Name="validCertificationDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3.333,4,0,4" Grid.Row="9" SelectedDate="{Binding ValidCertification, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="סוג תיבת הילוכים" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="0" />
+            <ListView x:Name="gearBoxListView" HorizontalContentAlignment="Right" Grid.Column="0" Grid.RowSpan="2" Grid.Row="0" />
+            <Label Content="סוג רכב" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="2" />
+            <ListView x:Name="vehicleTypeListView" HorizontalContentAlignment="Right" Grid.Column="0"  Grid.Row="2" Grid.RowSpan="5" ItemsSource="{Binding vehicleType}" SelectionMode="Multiple"/>
+
+
+
+
+
+        </Grid>
+    </Grid>
 </Window>
