@@ -34,3 +34,39 @@ C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות ח�
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\PLWPF\obj\Debug\MainAdministrationWindow.g.cs
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\PLWPF\obj\Debug\addTesterWindow.baml
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\PLWPF\obj\Debug\MainAdministrationWindow.baml
+C:\Git\C-Project\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Git\C-Project\PLWPF\bin\Debug\PLWPF.exe
+C:\Git\C-Project\PLWPF\bin\Debug\PLWPF.pdb
+C:\Git\C-Project\PLWPF\bin\Debug\BE.dll
+C:\Git\C-Project\PLWPF\bin\Debug\BL.dll
+C:\Git\C-Project\PLWPF\bin\Debug\DAL.dll
+C:\Git\C-Project\PLWPF\bin\Debug\BE.pdb
+C:\Git\C-Project\PLWPF\bin\Debug\BL.pdb
+C:\Git\C-Project\PLWPF\bin\Debug\DAL.pdb
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Git\C-Project\PLWPF\obj\Debug\addTesterWindow.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\addTraineeWindow.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\Administration.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\Linq.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\MainAdministrationWindow.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\Tester.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\Trainee.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\App.g.cs
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Git\C-Project\PLWPF\obj\Debug\addTesterWindow.baml
+C:\Git\C-Project\PLWPF\obj\Debug\addTraineeWindow.baml
+C:\Git\C-Project\PLWPF\obj\Debug\Administration.baml
+C:\Git\C-Project\PLWPF\obj\Debug\Linq.baml
+C:\Git\C-Project\PLWPF\obj\Debug\MainAdministrationWindow.baml
+C:\Git\C-Project\PLWPF\obj\Debug\MainWindow.baml
+C:\Git\C-Project\PLWPF\obj\Debug\Tester.baml
+C:\Git\C-Project\PLWPF\obj\Debug\Trainee.baml
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.exe
+C:\Git\C-Project\PLWPF\obj\Debug\PLWPF.pdb
