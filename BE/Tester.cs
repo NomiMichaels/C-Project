@@ -13,7 +13,8 @@ namespace BE
             futureTests = new List<Test>(); //טסטר חדש ולכן אין לו טסטים שנקבעו
             scedule = new bool[6,5];
             rating = new TesterRating();
-
+            birthDate = new DateTime(1970,1,1);
+            validCertification = DateTime.Now;
         }
 
         /// <summary>
@@ -59,18 +60,18 @@ namespace BE
         public string lastName { get; set; }
         public string firstName { get; set; }
 
-        private DateTime birthDate; //תאריך יומולדת של הבוחן
-        public DateTime BirthDate
-        {
-            get => birthDate;
-            set
-            {
-                if (DateTime.Now.Year - value.Year <= Configuration.maxTesterAge &&
-                    DateTime.Now.Year - birthDate.Year >= Configuration.minTesterAge)
-                    birthDate = value;
-                else throw new Exception ("Tester age is out of range"); 
-            }
-        } 
+        public DateTime birthDate { get; set; } //תאריך יומולדת של הבוחן
+        //public DateTime BirthDate
+        //{
+        //    get => birthDate;
+        //    set
+        //    {
+        //        if (DateTime.Now.Year - value.Year <= Configuration.maxTesterAge &&
+        //            DateTime.Now.Year - birthDate.Year >= Configuration.minTesterAge)
+        //            birthDate = value;
+        //        else throw new Exception ("Tester age is out of range"); 
+        //    }
+        //} 
 
         public Gender gender { get; set; } //מין
 
@@ -88,17 +89,17 @@ namespace BE
 
         public Address address { get; set; }
 
-        private DateTime validCertification; //תוקף התעודה שלו לטסטריות
-        public DateTime ValidCertification
-        {
-            get => validCertification;
-            set
-            {
-                if (value > DateTime.Now)
-                    validCertification = value;
-                else throw new Exception ("Certification is not valid"); 
-            }
-        }
+        public DateTime validCertification { get; set; } //תוקף התעודה שלו לטסטריות
+        //public DateTime ValidCertification
+        //{
+        //    get => validCertification;
+        //    set
+        //    {
+        //        if (value > DateTime.Now)
+        //            validCertification = value;
+        //        else throw new Exception ("Certification is not valid"); 
+        //    }
+        //}
 
         private int experienceYears;
         public int ExperienceYears

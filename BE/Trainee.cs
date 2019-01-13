@@ -12,9 +12,10 @@ namespace BE
         {
             traineeTests = new List<Test>();
             numOfTests = 0;
+            birthDate = new DateTime(2000, 1, 1);
         }
-        public Trainee(string myID, string myLastName, string myFirstName,
-            DateTime myBirthDate, Gender myGender, string myPhoneNum, Address myAddress,
+        public Trainee(string myID, string myLastName, string myFirstName
+            , DateTime myBirthDate, Gender myGender, string myPhoneNum, Address myAddress,
             VehicleType myVehicleType, GearBox myGearBox, string mySchoolName,
             string myTeacherName, int myNumOfLessons)
         {
@@ -49,17 +50,17 @@ namespace BE
         public string lastName { get; set; }
         public string firstName { get; set; }
 
-        private DateTime birthDate; //תאריך יומולדת של הנבחן
-        public DateTime BirthDate
-        {
-            get => birthDate;
-            set
-            {
-                if (DateTime.Now.Year - value.Year >= Configuration.minTrainieeAge)
-                    birthDate = value;
-                else throw new Exception ("Trainee is too young"); 
-            }
-        } 
+        //private DateTime birthDate; //תאריך יומולדת של הנבחן
+        public DateTime birthDate { get; set; }
+        //{
+        //    get => birthDate;
+        //    set
+        //    {
+        //        if (DateTime.Now.Year - value.Year >= Configuration.minTrainieeAge)
+        //            birthDate = value;
+        //        else throw new Exception ("Trainee is too young"); 
+        //    }
+        //} 
         public Gender gender { get; set; } //מין
 
         private string phoneNum;
@@ -81,17 +82,17 @@ namespace BE
         public string schoolName { get; set; }
         public string teacherName { get; set; }
 
-        private int numOfLessons;
-        public int NumOfLessons
-        {
-            get => numOfLessons;
-            set
-            {
-                if (value >= Configuration.minLessonNum)
-                    numOfLessons = value;
-                else throw new Exception("not enough lessons taken");
-            }
-        }
+        // private int numOfLessons;
+        public int numOfLessons { get; set; }
+        //{
+        //    get => numOfLessons;
+        //    set
+        //    {
+        //        if (value >= Configuration.minLessonNum)
+        //            numOfLessons = value;
+        //        else throw new Exception("not enough lessons taken");
+        //    }
+        //}
 
         private List<Test> traineeTests;
         public List<Test> TraineeTests

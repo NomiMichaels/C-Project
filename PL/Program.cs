@@ -29,11 +29,11 @@ namespace PL
                     _ID = myID,
                     lastName = myLastName,
                     firstName = myFirstName,
-                    BirthDate = myBirthDate,
+                    birthDate = myBirthDate,
                     gender = myGender,
                     PhoneNum = myPhoneNum,
                     address = myAddress,
-                    ValidCertification = myValidCertification,
+                    validCertification = myValidCertification,
                     ExperienceYears = myExperienceYears,
                     MaxTestPerWeek = myMaxTestPerWeek,
                     vehicleType = myVehicleType,
@@ -217,7 +217,7 @@ namespace PL
                     _ID = myID,
                     lastName = myLastName,
                     firstName = myFirstName,
-                    BirthDate = myBirthDate,
+                    birthDate = myBirthDate,
                     gender = myGender,
                     PhoneNum = myPhoneNum,
                     address = myAddress,
@@ -225,7 +225,7 @@ namespace PL
                     gearBox = myGearBox,
                     schoolName = mySchoolName,
                     teacherName = myTeacherName,
-                    NumOfLessons = myNumOfLessons,
+                    numOfLessons = myNumOfLessons,
                 };
                 bl.addTrainee(addingTrainee);
 

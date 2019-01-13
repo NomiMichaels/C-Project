@@ -10,7 +10,7 @@ namespace BE
     {
         public Test()
         {
-
+           
         }
         /// <summary>
         /// בנאי לטסט

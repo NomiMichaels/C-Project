@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using BL;
+//using BE;
 
 namespace PLWPF
 {
@@ -19,17 +21,50 @@ namespace PLWPF
     /// </summary>
     public partial class Trainee : Window
     {
+        IBL bl;
+
         public Trainee()
         {
             InitializeComponent();
+            bl = BL.FactoryBL.GetBL();
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Window addTraineeWindow = new addTraineeWindow();
             addTraineeWindow.Show();
+            this.Close();
         }
 
-        
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            string password = Trainee_Password.Password.ToString();
+            bool traineeFound = true;
+            BE.Trainee trainee;
+            try
+            {
+                trainee = bl.findTrainee(password);
+            }
+            catch (Exception ex)
+            {
+                if (ex.Message == "This trainee does not exists")
+                {
+                    MessageBox.Show("תלמיד יקר, אינך רשום במערכת", "", MessageBoxButton.OK, MessageBoxImage.Information);
+                    traineeFound = false;
+                }
+            }
+            if (traineeFound)
+            {
+                UpdateTrainee updateTrainee = new UpdateTrainee();
+                updateTrainee.password = password; //העברת המידע לחלון הבא
+                updateTrainee.Show();
+                this.Close();
+               // Window updateTraineeWindow = new UpdateTrainee();
+                //updateTrainee.func();
+               // updateTraineeWindow.Show();
+            }
+
+        }
     }
 }

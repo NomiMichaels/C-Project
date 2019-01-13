@@ -72,7 +72,7 @@ namespace DAL
             DataSource.traineeList[index]._ID = UpdatingTrainee._ID;
             DataSource.traineeList[index].lastName = UpdatingTrainee.lastName;
             DataSource.traineeList[index].firstName = UpdatingTrainee.firstName;
-            DataSource.traineeList[index].BirthDate = UpdatingTrainee.BirthDate;
+            DataSource.traineeList[index].birthDate = UpdatingTrainee.birthDate;
             DataSource.traineeList[index].gender = UpdatingTrainee.gender;
             DataSource.traineeList[index].PhoneNum = UpdatingTrainee.PhoneNum;
             DataSource.traineeList[index].address = UpdatingTrainee.address;
@@ -80,7 +80,7 @@ namespace DAL
             DataSource.traineeList[index].gearBox = UpdatingTrainee.gearBox;
             DataSource.traineeList[index].schoolName = UpdatingTrainee.schoolName;
             DataSource.traineeList[index].teacherName = UpdatingTrainee.teacherName;
-            DataSource.traineeList[index].NumOfLessons = UpdatingTrainee.NumOfLessons;
+            DataSource.traineeList[index].numOfLessons = UpdatingTrainee.numOfLessons;
         }
 
         public Trainee findTrainee(string traineeID)   //פונקציה שמחזירה את הנבחן על פי מספר הזהות שלו

@@ -29,6 +29,7 @@ namespace PLWPF
             //להכניס את תנאי הסיסמא האמיתית
             Window MainAdministrationWindow = new MainAdministrationWindow();
             MainAdministrationWindow.Show();
+            this.Close();
         }
     }
 }

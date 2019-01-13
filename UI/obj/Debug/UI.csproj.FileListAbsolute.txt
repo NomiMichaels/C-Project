@@ -40,3 +40,87 @@ C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות ח�
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.exe
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\UI\obj\Debug\UI.pdb
+C:\Git\C-Project\UI\bin\Debug\UI.exe.config
+C:\Git\C-Project\UI\bin\Debug\UI.exe
+C:\Git\C-Project\UI\bin\Debug\UI.pdb
+C:\Git\C-Project\UI\bin\Debug\BE.dll
+C:\Git\C-Project\UI\bin\Debug\BL.dll
+C:\Git\C-Project\UI\bin\Debug\DAL.dll
+C:\Git\C-Project\UI\bin\Debug\BE.pdb
+C:\Git\C-Project\UI\bin\Debug\BL.pdb
+C:\Git\C-Project\UI\bin\Debug\DAL.pdb
+C:\Git\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Git\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Git\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Git\C-Project\UI\obj\Debug\UI.exe
+C:\Git\C-Project\UI\obj\Debug\UI.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\UI.exe.config
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\UI.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\obj\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\UI\obj\Debug\UI.pdb
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\UI.exe.config
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\UI.exe
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\UI.pdb
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\BE.dll
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\BL.dll
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\DAL.dll
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\BE.pdb
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\BL.pdb
+C:\Git\C-Project (2)\C-Project\UI\bin\Debug\DAL.pdb
+C:\Git\C-Project (2)\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Git\C-Project (2)\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Git\C-Project (2)\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Git\C-Project (2)\C-Project\UI\obj\Debug\UI.exe
+C:\Git\C-Project (2)\C-Project\UI\obj\Debug\UI.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\UI.exe.config
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\UI.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\obj\Debug\UI.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\UI\obj\Debug\UI.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\UI.exe.config
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\UI.exe
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\UI.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\BE.dll
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\BL.dll
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\DAL.dll
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\BE.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\BL.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\UI\bin\Debug\DAL.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Git\3.1 nomi\C-Project\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Git\3.1 nomi\C-Project\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Git\3.1 nomi\C-Project\C-Project\UI\obj\Debug\UI.exe
+C:\Git\3.1 nomi\C-Project\C-Project\UI\obj\Debug\UI.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\UI.exe.config
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\UI.exe
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\UI.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\BE.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\BL.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\DAL.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\BE.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\BL.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\bin\Debug\DAL.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\obj\Debug\UI.exe
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\UI\obj\Debug\UI.pdb

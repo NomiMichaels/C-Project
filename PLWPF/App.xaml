@@ -4,6 +4,53 @@
              xmlns:local="clr-namespace:PLWPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="Style_Button" TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF364F73"/>
+            <Setter Property="BorderThickness" Value="10"/>
+            <Setter Property="Foreground" Value="#FF364F73"/>
+            <!--הגדרת כפתור בסיסי עם הכתב שלנו, צבע וכו-->
+            <Setter Property="FontFamily" Value="Abraham"/>
+        </Style>
+        <Style x:Key="Style_Label" TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Abraham"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0,0,0,0"/>
+        </Style>
+        <Style x:Key="Style_TextBox" TargetType="TextBox">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+        <Style BasedOn="{StaticResource Style_TextBox}" x:Key="background_numberOnly_style" TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Grid>
+                            <TextBox Text="{Binding Text, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}, UpdateSourceTrigger=PropertyChanged}" />
+                            <TextBlock HorizontalAlignment="Center"
+               
+                Text="ספרות בלבד"
+                Margin="5,0,5,0"
+                Foreground="#FF808080"
+                IsHitTestVisible="False"
+                x:Name="UserMessage"
+                Visibility="Hidden"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="Text" Value=""/>
+                                    <Condition Property="IsKeyboardFocusWithin" Value="False"/>
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Visibility" TargetName="UserMessage" Value="Visible"/>
+                            </MultiTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </Application.Resources>
 </Application>

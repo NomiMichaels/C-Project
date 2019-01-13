@@ -21,9 +21,11 @@ namespace BL
             foreach (Tester tester in getTesterList())
                 if (tester._ID == addingTester._ID)
                     throw new Exception("This tester ID already exists"); 
-            if (DateTime.Now.Year - addingTester.BirthDate.Year > Configuration.maxTesterAge
-               || DateTime.Now.Year - addingTester.BirthDate.Year < Configuration.minTesterAge)
-                throw new Exception("Tester's age is out of range"); 
+            if (DateTime.Now.Year - addingTester.birthDate.Year > Configuration.maxTesterAge
+               || DateTime.Now.Year - addingTester.birthDate.Year < Configuration.minTesterAge)
+                throw new Exception("Tester age is out of range");
+            if (DateTime.Now.Year - addingTester.validCertification.Year == 0 && (addingTester.validCertification.DayOfYear - DateTime.Now.DayOfYear  < 0)) 
+                throw new Exception("Certification is not valid");
             dal.addTester(addingTester);
         }
 
@@ -71,6 +73,10 @@ namespace BL
 
         public void addTrainee(Trainee addingTrainee) //בודק שהתלמיד עוד לא קיים במערכת ושהוא בגיל המתאים
         {
+            if (addingTrainee.numOfLessons < Configuration.minLessonNum)
+               throw new Exception("not enough lessons taken");
+            if (DateTime.Now.Year - addingTrainee.birthDate.Year < Configuration.minTrainieeAge)
+               throw new Exception("Trainee is too young");
             foreach (Trainee trainee in getTraineeList())
                 if (trainee._ID == addingTrainee._ID)
                     throw new Exception("This trainee ID already exists");
@@ -151,7 +157,7 @@ namespace BL
                     return false;
             }
             else
-                if (myTrainee.NumOfLessons < Configuration.minLessonNum)
+                if (myTrainee.numOfLessons < Configuration.minLessonNum)
                 return false;
             return true;
         }
@@ -202,9 +208,9 @@ namespace BL
                     foundVehcleType = true;
                     break;
                 }
-            if (foundGearBox && foundVehcleType && t.ValidCertification >= addingTest.testTime && //בדיקה שהתעודה בתוקף
-                DateTime.Now.Year - t.BirthDate.Year <= Configuration.maxTesterAge //בדיקה שהוא בגיל המתאים
-                    && DateTime.Now.Year - t.BirthDate.Year >= Configuration.minTesterAge)
+            if (foundGearBox && foundVehcleType && t.validCertification >= addingTest.testTime && //בדיקה שהתעודה בתוקף
+                DateTime.Now.Year - t.birthDate.Year <= Configuration.maxTesterAge //בדיקה שהוא בגיל המתאים
+                    && DateTime.Now.Year - t.birthDate.Year >= Configuration.minTesterAge)
             {
                 addingTest.testerID = t._ID;
                 return true;
@@ -430,14 +436,14 @@ namespace BL
         public List<Tester> withinMonthExpiredTesterCertification()
         {
             return getTesterList().FindAll
-                (T => (T.ValidCertification - DateTime.Today).TotalDays <= 30); //ביטוי למבדה המחזיר אם רישיון הטסטר פג תוקף ב30 יום הקרובים
+                (T => (T.validCertification - DateTime.Today).TotalDays <= 30); //ביטוי למבדה המחזיר אם רישיון הטסטר פג תוקף ב30 יום הקרובים
             
         }
 
        public List<Tester> testersThatRetireThisYear()
         {
             return getTesterList().FindAll
-                 (T => (DateTime.Today.Year- T.BirthDate.Year) >= Configuration.maxTesterAge);   // ביטוילמבדה שבודק אם הטסטר מגיע לגיל הפרישה השנה
+                 (T => (DateTime.Today.Year- T.birthDate.Year) >= Configuration.maxTesterAge);   // ביטוילמבדה שבודק אם הטסטר מגיע לגיל הפרישה השנה
         }
 
         public IEnumerable<Test> futureTest() //מחזיר את רשימת הטסטים העתידיים בסדר ממוין יום/חודש

@@ -10,14 +10,14 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="3*"/>
-
         </Grid.RowDefinitions>
         <StackPanel Name="Tester_login" Grid.Row="1">
-            <TextBlock Text="הכנס תעודת זהות" FontSize="24" FontFamily="Gan CLM" Height="40" Margin="130,50,130,0"/>
-            <PasswordBox Name="Tester_Password" Height="38" Margin="100,0" FontSize="25" MaxLength="9"/>
+            <TextBlock Text="הכנס תעודת זהות" FontSize="30" FontFamily="Abraham" Height="40" Margin="0,50,0,0" HorizontalAlignment="Center"/>
+            <PasswordBox Name="Trainee_Password" Height="38" Margin="100,0" FontSize="25" MaxLength="9"/>
         </StackPanel>
-        <Button Content="אישור" FontSize="20" FontFamily="Gan CLM" Margin="102,148,279,10" Grid.Row="1" Click="Button_Click" />
-        <Button Content="תלמיד חדש" FontSize="15" FontFamily="Gan CLM" Margin="280,148,101,10" Grid.Row="1"  Background="White" BorderBrush="White" Foreground="#FF1B1BA2" Click="Button_Click" />
+        <Button Content="אישור" FontSize="25" FontFamily="Abraham" Margin="102,148,279,10" Grid.Row="1" Click="Button_Click_1" />
+        <Button Content="תלמיד חדש" FontSize="20" FontFamily="Abraham" Margin="280,148,101,10" Grid.Row="1"  Background="White" BorderBrush="White" Foreground="#FF364F73" Click="Button_Click" />
+        <Image Margin="10,2,0,6" Source="images/sigen_in.jpg" Stretch="Fill"/>
 
     </Grid>
 </Window>

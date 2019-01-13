@@ -79,3 +79,75 @@ C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות ח�
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\DAL\obj\Debug\DAL.dll
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\DAL\obj\Debug\DAL.pdb
+C:\Git\C-Project\DAL\bin\Debug\DAL.dll
+C:\Git\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Git\C-Project\DAL\bin\Debug\BE.dll
+C:\Git\C-Project\DAL\bin\Debug\BE.pdb
+C:\Git\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Git\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Git\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Git\C-Project\DAL\obj\Debug\DAL.dll
+C:\Git\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\obj\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Git\C-Project (2)\C-Project\DAL\bin\Debug\DAL.dll
+C:\Git\C-Project (2)\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Git\C-Project (2)\C-Project\DAL\bin\Debug\BE.dll
+C:\Git\C-Project (2)\C-Project\DAL\bin\Debug\BE.pdb
+C:\Git\C-Project (2)\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Git\C-Project (2)\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Git\C-Project (2)\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Git\C-Project (2)\C-Project\DAL\obj\Debug\DAL.dll
+C:\Git\C-Project (2)\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\obj\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\bin\Debug\DAL.dll
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\bin\Debug\BE.dll
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\bin\Debug\BE.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\obj\Debug\DAL.dll
+C:\Git\3.1 nomi\C-Project\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\obj\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\bin\Debug\DAL.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\bin\Debug\BE.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\bin\Debug\BE.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\obj\Debug\DAL.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\DAL\obj\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\obj\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\DAL\obj\Debug\DAL.pdb

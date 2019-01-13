@@ -49,3 +49,50 @@ C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות ח�
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BE\obj\Debug\BE.dll
 C:\מעיין\מכון טל\שנה ב\מיני פרוייקט במערכות חלונות- דונט נט\פרוייקט\חלק ב\Project02_5882_3499_dotNet5779\BE\obj\Debug\BE.pdb
+C:\Git\C-Project\BE\bin\Debug\BE.dll
+C:\Git\C-Project\BE\bin\Debug\BE.pdb
+C:\Git\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Git\C-Project\BE\obj\Debug\BE.dll
+C:\Git\C-Project\BE\obj\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\obj\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\2_1_2019\C-Project\BE\obj\Debug\BE.pdb
+C:\Git\C-Project (2)\C-Project\BE\bin\Debug\BE.dll
+C:\Git\C-Project (2)\C-Project\BE\bin\Debug\BE.pdb
+C:\Git\C-Project (2)\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Git\C-Project (2)\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Git\C-Project (2)\C-Project\BE\obj\Debug\BE.dll
+C:\Git\C-Project (2)\C-Project\BE\obj\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\obj\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\obj\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\3_1_2019\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Git\3.1 nomi\C-Project\C-Project\BE\bin\Debug\BE.dll
+C:\Git\3.1 nomi\C-Project\C-Project\BE\bin\Debug\BE.pdb
+C:\Git\3.1 nomi\C-Project\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Git\3.1 nomi\C-Project\C-Project\BE\obj\Debug\BE.dll
+C:\Git\3.1 nomi\C-Project\C-Project\BE\obj\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\obj\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BE\obj\Debug\BE.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\bin\Debug\BE.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\bin\Debug\BE.pdb
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\obj\Debug\BE.dll
+C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BE\obj\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\obj\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BE\obj\Debug\BE.pdb
+C:\Git\C-Project\BE\obj\Debug\BE.csprojAssemblyReference.cache

@@ -30,9 +30,11 @@ namespace PLWPF
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+
+            Window mainTesterWindow = new mainTesterWindows();
+            mainTesterWindow.Show();
+            this.Close();
             
-           // Window testerWindow = new Tester();
-           // testerWindow.Show();
         }
     }
 }

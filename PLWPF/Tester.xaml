@@ -12,9 +12,10 @@
             <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
         <StackPanel Name="Tester_login" Grid.Row="1">
-            <TextBlock Text="הכנס תעודת זהות" FontSize="24" FontFamily="Gan CLM" Height="40" Margin="130,50,130,0"/>
+            <TextBlock Text="הכנס תעודת זהות" FontSize="30" FontFamily="Abraham" Height="40" Margin="0,50,0,0" HorizontalAlignment="Center"/>
             <PasswordBox Name="Tester_Password" Height="38" Margin="100,0" FontSize="25" MaxLength="9"/>
        </StackPanel>
-        <Button Content="אישור" FontSize="20" FontFamily="Gan CLM" Margin="168,148,213,10" Grid.Row="1" Click="Button_Click" />
+        <Button Content="אישור" FontSize="20" FontFamily="Abraham" Margin="168,148,213,10" Grid.Row="1" Click="Button_Click" />
+        <Image Margin="10,2,0,6" Source="images/sigen_in.jpg" Stretch="Fill"/>
     </Grid>
 </Window>

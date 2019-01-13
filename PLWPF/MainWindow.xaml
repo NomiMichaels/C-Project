@@ -8,16 +8,20 @@
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
         <Style x:Key="Style_Button" TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF364F73"/>
+            <Setter Property="BorderThickness" Value="10"/>
+            <Setter Property="Foreground" Value="#FF364F73"/>
             <!--הגדרת כפתור בסיסי עם הכתב שלנו, צבע וכו-->
-            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="FontFamily" Value="Abraham"/>
         </Style>
         <Style x:Key="Style_Label" TargetType="Label">
-            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="FontFamily" Value="Abraham"/>
             <Setter Property="HorizontalContentAlignment" Value="Right"/>
             <Setter Property="Margin" Value="0,0,-88,0"/>
         </Style>
         <Style x:Key="Style_TextBox" TargetType="TextBox">
-            <Setter Property="FontFamily" Value="Gan CLM"/>
+            <Setter Property="FontFamily" Value="Abraham"/>
             <Setter Property="HorizontalContentAlignment" Value="Right"/>
             <Setter Property="Margin" Value="5"/>
         </Style>
@@ -43,8 +47,8 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <Button Style="{StaticResource Style_Button}" Content="טסטר" Grid.Column="1" Margin="30" FontSize="48" Click="Tester_Click" BorderBrush="#FF364F73" OpacityMask="Black" Background="#FF364F73" Foreground="White"/>
-            <Button Style="{StaticResource Style_Button}" Content="תלמיד"  Margin="30" FontSize="48" Click="Trainee_Click" Background="White" BorderBrush="Snow" Foreground="#FF364F73"/>
+            <Button Style="{StaticResource Style_Button}" Content="טסטר" Grid.Column="1" Margin="30" FontSize="60" Click="Tester_Click"/>
+            <Button Style="{StaticResource Style_Button}" Content="תלמיד"  Margin="30" FontSize="60" Click="Trainee_Click"/>
         </Grid>
 
         <Grid>
@@ -57,10 +61,10 @@
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
-                <Button Style="{StaticResource Style_Button}" Content="הנהלה"  Margin="20" FontSize="36"  Click="Administration_Click"/>
-                <Button Style="{StaticResource Style_Button}" Grid.Row="1" Content="תוספות"  Margin="20" FontSize="36" Click="Linq_Click"/>
+                <Button Style="{StaticResource Style_Button}" Content="הנהלה"  Margin="30,20,20,20" FontSize="36"  Click="Administration_Click" Foreground="White" Background="#FF364F73"/>
+                <Button Style="{StaticResource Style_Button}" Grid.Row="1" Content="תוספות"  Margin="30,20,20,20" FontSize="36" Click="Linq_Click" Foreground="White" Background="#FF364F73"/>
             </Grid>
-            <Image Source="מסך ראשי.jpg" Grid.Column="1">
+            <Image Source="images/main_image.jpg" Grid.Column="1">
                 <Image.RenderTransform>
                     <TransformGroup>
                         <ScaleTransform/>

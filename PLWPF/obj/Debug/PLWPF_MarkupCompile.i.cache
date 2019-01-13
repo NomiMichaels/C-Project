@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Git\C-Project\PLWPF\App.xaml
-8457476616
+151117158496
 
-161781035865
+23-2131791731
 19620495652
-addTesterWindow.xaml;addTraineeWindow.xaml;Administration.xaml;Linq.xaml;MainAdministrationWindow.xaml;MainWindow.xaml;Tester.xaml;Trainee.xaml;
+addTest.xaml;addTesterWindow.xaml;addTraineeWindow.xaml;Administration.xaml;Linq.xaml;MainAdministrationWindow.xaml;mainTesterWindows.xaml;MainWindow.xaml;rateTester.xaml;RatingStar.xaml;Tester.xaml;TesterScedule.xaml;Trainee.xaml;UpdateTrainee.xaml;UpdateTraineeInfo.xaml;
 
 True
 
