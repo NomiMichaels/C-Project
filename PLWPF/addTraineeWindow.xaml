@@ -84,7 +84,7 @@
                         <DataTrigger Binding="{Binding ElementName=_IDTextBox, Path=Text}" Value="">
                             <Setter Property="Button.IsEnabled" Value="False"/>
                         </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=firstNameTextBox, Path=Text}" Value="">
+                        <!--<DataTrigger Binding="{Binding ElementName=firstNameTextBox, Path=Text}" Value="">
                             <Setter Property="Button.IsEnabled" Value="False"/>
                         </DataTrigger>
                         <DataTrigger Binding="{Binding ElementName=lastNameTextBox, Path=Text}" Value="">
@@ -104,7 +104,7 @@
                         </DataTrigger>
                         <DataTrigger Binding="{Binding ElementName=numOfLessonsTextBox, Path=Text}" Value="">
                             <Setter Property="Button.IsEnabled" Value="False"/>
-                        </DataTrigger>
+                        </DataTrigger>-->
                     </Style.Triggers>
                 </Style>
             </Button.Style>

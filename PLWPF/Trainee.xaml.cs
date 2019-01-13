@@ -59,7 +59,6 @@ namespace PLWPF
                 UpdateTrainee updateTrainee = new UpdateTrainee();
                 updateTrainee.password = password; //העברת המידע לחלון הבא
                 updateTrainee.Show();
-                this.Close();
                // Window updateTraineeWindow = new UpdateTrainee();
                 //updateTrainee.func();
                // updateTraineeWindow.Show();

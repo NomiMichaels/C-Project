@@ -26,10 +26,17 @@ namespace PLWPF
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //להכניס את תנאי הסיסמא האמיתית
-            Window MainAdministrationWindow = new MainAdministrationWindow();
-            MainAdministrationWindow.Show();
-            this.Close();
+            string password = Tester_Password.Password.ToString();
+            if (password == "1111")
+            {
+                //להכניס את תנאי הסיסמא האמיתית
+                Window MainAdministrationWindow = new MainAdministrationWindow();
+                MainAdministrationWindow.Show();
+                this.Close();
+            }
+            else
+                MessageBox.Show("הוכנסה סיסמא שגויה, נסה שנית", "", MessageBoxButton.OK, MessageBoxImage.Error);
+
         }
     }
 }

@@ -51,7 +51,7 @@ namespace PLWPF
                 { true, true, true, false, true }}, (float)80);
             bl.addTester(tester);
 
-            trainee = new BE.Trainee("315443499", "מעיין", "סיזל", new DateTime(1997, 5, 28), BE.Gender.נקבה, "0526155661", new BE.Address("רבי טרפון", 6, "ירושלים"), BE.VehicleType.רכב_פרטי, BE.GearBox.אוטומטי, "אלי", "למד", 20);
+            trainee = new BE.Trainee("315443499", "Maayan", "Seizel", new DateTime(1997, 5, 28), BE.Gender.נקבה, "0526155661", new BE.Address("Rabbi Tarfon", 6, "Jerusalem"), BE.VehicleType.רכב_פרטי, BE.GearBox.אוטומטי, "Eli", "Lamed", 20);
             bl.addTrainee(trainee);
         }
 

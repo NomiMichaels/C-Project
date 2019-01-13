@@ -39,10 +39,16 @@ namespace PLWPF
             this.vehicleTypeComboBox.ItemsSource = Enum.GetValues(typeof(BE.VehicleType));
             this.gearBoxComboBox.ItemsSource = Enum.GetValues(typeof(BE.GearBox));
 
-                       
+            if (action == "update")
+            {
+                this.DataContext = updateTrainee;
+            }
+            
         }
 
+        public string action;
 
+        public BE.Trainee updateTrainee = new BE.Trainee();
 
         private void Button_Click(object sender, RoutedEventArgs e1)
         {

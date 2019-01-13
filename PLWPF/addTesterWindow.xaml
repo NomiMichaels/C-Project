@@ -8,11 +8,24 @@
         mc:Ignorable="d"
         Title="addTesterWindow" Height="400" Width="600" >
     <Window.Resources>
-
-        <CollectionViewSource x:Key="testerViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Tester}, CreateList=True}"/>
+        <!--<local:StringToInt x:Key="StringToInt"/>-->
+        <Style x:Key="Style_Label" TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Abraham"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="0,0,0,0"/>
+        </Style>
+        <Style x:Key="Style_TextBox" TargetType="TextBox">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+            <!--<CollectionViewSource x:Key="testerViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Tester}, CreateList=True}"/>
         <CollectionViewSource x:Key="testergearBoxViewSource" Source="{Binding gearBox, Source={StaticResource testerViewSource}}"/>
         <CollectionViewSource x:Key="testervehicleTypeViewSource" Source="{Binding vehicleType, Source={StaticResource testerViewSource}}"/>
-        <CollectionViewSource x:Key="addressViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Address}, CreateList=True}"/>
+        <CollectionViewSource x:Key="addressViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Address}, CreateList=True}"/>-->
     </Window.Resources>
 
 
@@ -24,7 +37,8 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Label Content="הוספת טסטר" Style="{StaticResource Style_Label}" Grid.Row="0" HorizontalContentAlignment="Left" Foreground="#FF364F73" FontSize="24" Margin="30,7,0,7"/>
-        <Grid x:Name="grid1" Grid.Row="1" DataContext="{StaticResource addressViewSource}">
+        <Grid x:Name="grid1" Grid.Row="1" >
+           
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -42,7 +56,7 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
             <Label Content="תעודת זהות" Style="{StaticResource Style_Label}"   Grid.Column="3" Grid.Row="0"/>
-            <TextBox x:Name="_IDTextBox" Style="{ StaticResource ResourceKey=background_numberOnly_style}" Grid.Column="2" Grid.Row="0" HorizontalContentAlignment="Left" Text="{Binding _ID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="_IDTextBox_PreviewTextInput"/>
+            <TextBox x:Name="_IDTextBox" Style="{ StaticResource Style_TextBox}" Grid.Column="2" Grid.Row="0" HorizontalContentAlignment="Left" Text="{Binding _ID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, UpdateSourceTrigger=LostFocus}" PreviewTextInput="_IDTextBox_PreviewTextInput"/>
             <Label Content="שם פרטי" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="1" />
             <TextBox x:Name="firstNameTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2"  Grid.Row="1" Text="{Binding firstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="firstNameTextBox_PreviewTextInput"/>
             <Label Content="שם משפחה" Style="{StaticResource Style_Label}"  Grid.Column="3" Grid.Row="2"/>
@@ -52,23 +66,23 @@
             <Label Content="תאריך לידה" Style="{StaticResource Style_Label}" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" Margin="136.333,4.667,0.333,0" VerticalAlignment="Top"/>
             <DatePicker x:Name="birthDateDatePicker"  Grid.Column="2" Grid.Row="4" Margin="5,0,5,5" HorizontalContentAlignment="Right" VerticalAlignment="Center" SelectedDate="{Binding birthDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" DisplayDate="1970-01-01"/>
             <Label Content="טלפון" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="5"/>
-            <TextBox x:Name="phoneNumTextBox" Style="{StaticResource background_numberOnly_style}" Grid.Column="2" Grid.Row="5" HorizontalContentAlignment="Left" Text="{Binding PhoneNum, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="phoneNumTextBox_PreviewTextInput" Margin="5.333,7,5.333,0" VerticalAlignment="Top" />
+            <TextBox x:Name="phoneNumTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2" Grid.Row="5" HorizontalContentAlignment="Left" Text="{Binding PhoneNum, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="phoneNumTextBox_PreviewTextInput" Margin="5.333,7,5.333,0" VerticalAlignment="Top" />
             <!--כתובת-->
             <Label Content="מספר שנות נסיון" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="6" VerticalAlignment="Center"/>
-            <TextBox x:Name="experienceYearsTextBox" Style="{StaticResource background_numberOnly_style}" Grid.Column="2" Grid.Row="6" Text="{Binding ExperienceYears, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="experienceYearsTextBox_PreviewTextInput"/>
+            <TextBox x:Name="experienceYearsTextBox" Style="{StaticResource Style_TextBox}" Grid.Column="2" Grid.Row="6" Text="{Binding ExperienceYears, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="experienceYearsTextBox_PreviewTextInput"/>
             <Label Content="תוקף רישוי טסטר" Style="{StaticResource Style_Label}" Grid.Column="3" Grid.Row="7"/>
             <DatePicker x:Name="validCertificationDatePicker" Grid.Column="2" Grid.Row="7" Margin="5,0,5,5" HorizontalContentAlignment="Right" SelectedDate="{Binding validCertification, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Height="24" VerticalAlignment="Bottom"/>
             <Label Content="סוג תיבת הילוכים" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="0" />
-            <ListBox x:Name="gearBoxListBox" HorizontalContentAlignment="Right" Grid.Column="0" Grid.RowSpan="2" Grid.Row="0" ItemsSource="{Binding geerBox}" SelectionMode="Multiple" Margin="5"/>
+            <ListBox x:Name="gearBoxListBox" HorizontalContentAlignment="Right" Grid.Column="0" Grid.RowSpan="2" Grid.Row="0" Margin="5" SelectionMode="Multiple" SelectedItem="{Binding myGearbox, Mode=TwoWay}"/>
             <Label Content="סוג רכב" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="2" />
             <ListBox x:Name="vehicleTypeListView" HorizontalContentAlignment="Right" Grid.Column="0"  Grid.Row="2" Grid.RowSpan="3" ItemsSource="{Binding vehicleType}" SelectionMode="Multiple" Margin="5"/>
             <Label Content="מרחק מקסימלי לטסט" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="5"/>
-            <TextBox x:Name="maxDistenceToTestTextBox" Grid.Row="5" Style="{StaticResource  background_numberOnly_style}" Text="{Binding MaxDistenceToTest, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+            <TextBox x:Name="maxDistenceToTestTextBox" Grid.Row="5" Style="{StaticResource  Style_TextBox}" Text="{Binding MaxDistenceToTest, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
             <Label Content="טסטים מקסימלי לשבוע" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="6"/>
-            <TextBox x:Name="maxTestPerWeekTextBox" Grid.Row="6" Style="{StaticResource background_numberOnly_style}" Text="{Binding MaxTestPerWeek, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="maxTestPerWeekTextBox_PreviewTextInput" />
+            <TextBox x:Name="maxTestPerWeekTextBox" Grid.Row="6" Style="{StaticResource Style_TextBox}" Text="{Binding MaxTestPerWeek, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="maxTestPerWeekTextBox_PreviewTextInput" />
             <Label Content="כתובת יציאה" Style="{StaticResource Style_Label}" Grid.Column="1" Grid.Row="7"/>
             <TextBox x:Name="addressCity" Grid.Row="7" Margin="5,5,80,5" Style="{StaticResource Style_TextBox}" Text="{Binding Address.city, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" PreviewTextInput="addressCity_PreviewTextInput" />
-            <!-- <TextBox x:Name="addressStreet" Grid.Row="7" Margin="75,5,0,5" Style="{StaticResource Style_TextBox}" Text="{Binding Address.street, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" TextChanged="addressStreet_TextChanged" PreviewTextInput="addressStreet_PreviewTextInput" /> MainWindow -->
+           <!-- <TextBox x:Name="addressStreet" Grid.Row="7" Margin="75,5,0,5" Style="{StaticResource Style_TextBox}" Text="{Binding Address.street, Mode=OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" TextChanged="addressStreet_TextChanged" PreviewTextInput="addressStreet_PreviewTextInput" /> MainWindow -->
             <TextBox x:Name="addressNumber" Grid.Column="1" Grid.Row="7" Margin="5,5,80,5" Style="{StaticResource Style_TextBox}" Text="{Binding Mode=OneWay}" PreviewTextInput="addressNumber_PreviewTextInput" />
 
         </Grid>

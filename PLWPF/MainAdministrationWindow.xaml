@@ -26,10 +26,10 @@
         </Grid.RowDefinitions>
         <Image Margin="480,-14,0,3" Source="images/logo.jpg" Stretch="Fill"/>
         <Label Content="הנהלה" Grid.Row="0" HorizontalContentAlignment="Left" Foreground="#FF364F73" FontSize="50" FontFamily="Abraham" Margin="50,0,602,0"/>
-        <Button Content="הוספת טסטר" Style="{StaticResource Style_Button}" Grid.Row="1" Click="Button_Click"/>
-        <Button Content="מחיקת טסטר" Style="{StaticResource Style_Button}" Grid.Row="2"/>
-        <Button Content="מחיקת מבחן" Style="{StaticResource Style_Button}" Grid.Row="3"/>
-        <Button Content="מחיקת תלמיד" Style="{StaticResource Style_Button}" Grid.Row="4"/>
+        <Button Content="הוספת טסטר" Style="{StaticResource Style_Button}" Grid.Row="1" Click="Button_Click_1"/>
+        <Button Content="מחיקת טסטר" Style="{StaticResource Style_Button}" Grid.Row="2" Click="Button_Click_2"/>
+        <Button Content="מחיקת מבחן" Style="{StaticResource Style_Button}" Grid.Row="3" Click="Button_Click_3"/>
+        <Button Content="מחיקת תלמיד" Style="{StaticResource Style_Button}" Grid.Row="4" Click="Button_Click_4"/>
         
     </Grid>
 </Window>

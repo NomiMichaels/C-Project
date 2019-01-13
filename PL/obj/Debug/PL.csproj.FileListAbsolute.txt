@@ -166,17 +166,17 @@ C:\Git\3.1 nomi\C-Project\C-Project\PL\obj\Debug\PL.csproj.CoreCompileInputs.cac
 C:\Git\3.1 nomi\C-Project\C-Project\PL\obj\Debug\PL.csproj.CopyComplete
 C:\Git\3.1 nomi\C-Project\C-Project\PL\obj\Debug\PL.exe
 C:\Git\3.1 nomi\C-Project\C-Project\PL\obj\Debug\PL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\PL.exe.config
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\PL.exe
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\PL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\BE.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\BL.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\DAL.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\BE.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\BL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\bin\Debug\DAL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\obj\Debug\PL.csprojAssemblyReference.cache
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\obj\Debug\PL.csproj.CopyComplete
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\obj\Debug\PL.exe
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\PL\obj\Debug\PL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\PL.exe.config
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\PL.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\PL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\BE.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\BL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\DAL.dll
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\BE.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\BL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\bin\Debug\DAL.pdb
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\obj\Debug\PL.exe
+C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\PL\obj\Debug\PL.pdb

@@ -154,25 +154,3 @@ C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים
 C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BL\obj\Debug\BL.csproj.CopyComplete
 C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BL\obj\Debug\BL.dll
 C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\8_1_19\next1\C-Project\BL\obj\Debug\BL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\BL.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\BL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\BE.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\DAL.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\BE.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\bin\Debug\DAL.pdb
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\obj\Debug\BL.csprojAssemblyReference.cache
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\obj\Debug\BL.csproj.CopyComplete
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\obj\Debug\BL.dll
-C:\Git\יום שלישי פתיחה אחרונה בעזה\C-Project\C-Project\BL\obj\Debug\BL.pdb
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\BL.dll
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\BL.pdb
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\BE.dll
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\DAL.dll
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\BE.pdb
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\bin\Debug\DAL.pdb
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\obj\Debug\BL.csprojAssemblyReference.cache
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\obj\Debug\BL.csproj.CopyComplete
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\obj\Debug\BL.dll
-C:\Users\nomim\Documents\מכון טל\שנה ב\סמסטר א\C#\תרגילים\הפרוייקט\1_9_2019\C-Project\BL\obj\Debug\BL.pdb

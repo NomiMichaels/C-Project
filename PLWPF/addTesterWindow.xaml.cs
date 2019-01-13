@@ -12,6 +12,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Text.RegularExpressions;
+using System.Collections.ObjectModel;
+using System.Data.SqlClient;
+using System.Configuration;
+using System.Globalization;
 
 //לדאוג שכל השדות נלחצו בצורתם התקנית בעזרת טריגר
 //לעשות חיבור בין כתובת לטסטר
@@ -26,15 +30,23 @@ namespace PLWPF
     {
         BE.Tester tester;
         BL.IBL bl;
+        public ObservableCollection<BE.GearBox> myGearBox;
+
         //BE.Address testerAddress;
 
+        
 
         public addTesterWindow()
         {
             InitializeComponent();
+            
 
             tester = new BE.Tester();
             this.DataContext = tester;
+
+           // loadList();
+
+            
 
             //testerAddress = new BE.Address();
 
@@ -44,6 +56,8 @@ namespace PLWPF
 
 
             bl = BL.FactoryBL.GetBL();
+            myGearBox = new ObservableCollection<BE.GearBox>();
+
 
             this.gearBoxListBox.ItemsSource = Enum.GetValues(typeof(BE.GearBox));
             this.vehicleTypeListView.ItemsSource = Enum.GetValues(typeof(BE.VehicleType));
@@ -64,10 +78,15 @@ namespace PLWPF
         //    // addressViewSource.Source = [generic data source]
         //}
 
+        public BE.Tester updateTester = new BE.Tester();
 
 
         private void Button_Click(object sender, RoutedEventArgs e1)
         {
+            //tester.gearBox.
+            //tester.gearBoxListBox.SetBinding(ListBox.SelectedItemProperty, new Binding("myGearBox"));
+            
+
             //tester.scedule = myScedule1; //קישור מערכת השעות של הטסטר
             try
             {
@@ -88,7 +107,7 @@ namespace PLWPF
                 //}
                 if (e.Message == "Tester age is out of range")
                 {
-                    MessageBox.Show("גיל הטסטר אינו עומד בתנאים\n " + "  טווח הגלאים הוא " + BE.Configuration.minTesterAge + " - " + BE.Configuration.maxTesterAge, "לא רשאי להרשם", MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBox.Show("גיל הטסטר אינו עומד בתנאים\n " + "  טווח הגלאים הוא " + BE.Configuration.minTesterAge +" - "+ BE.Configuration.maxTesterAge, "לא רשאי להרשם", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
                 if (e.Message == "Certification is not valid")
                 {
@@ -118,6 +137,39 @@ namespace PLWPF
             testerScedule.Show();
             this.Close();
         }
+        public int EmptyStringValue { get; set; }
+
+        public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+        {
+            if (value == null)
+                return null;
+            else if (value is string)
+                return value;
+            else if (value is int && (int)value == EmptyStringValue)
+                return string.Empty;
+            else
+                return value.ToString();
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+        {
+            if (value is string)
+            {
+                string s = (string)value;
+                int isNum;
+                if(int.TryParse(s, out isNum))
+                    return System.Convert.ToInt32(s);
+                else
+                    return EmptyStringValue;
+            }
+            return value;
+        }
+
+        //private void loadList()
+        //{
+        //    SqlConnection connect = new SqlConnection();
+        //    connect.ConnectionString = ConfigurationManager.ConnectionStrings.ToString();
+        //}
 
         private void _IDTextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
@@ -146,7 +198,7 @@ namespace PLWPF
 
         private void maxTestPerWeekTextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
-            e.Handled = new Regex("[^0-9]+").IsMatch(e.Text); //מקבל כקלט רק מספרים
+           e.Handled = new Regex("[^0-9]+").IsMatch(e.Text); //מקבל כקלט רק מספרים
         }
 
         private void maxDistenceToTestTextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
@@ -169,6 +221,7 @@ namespace PLWPF
             e.Handled = new Regex("[^א-ת, a-z, A-Z]+").IsMatch(e.Text); //מקבל כקלט רק אותיות
         }
     }
+    
 }
 
 

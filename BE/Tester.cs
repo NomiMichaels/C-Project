@@ -15,6 +15,8 @@ namespace BE
             rating = new TesterRating();
             birthDate = new DateTime(1970,1,1);
             validCertification = DateTime.Now;
+            experienceYears = 0;
+            
         }
 
         /// <summary>
@@ -109,6 +111,7 @@ namespace BE
             {
                 if (value >= 0)
                     experienceYears = value;
+                else experienceYears = -value;
             }
         }
 
@@ -120,6 +123,7 @@ namespace BE
             {
                 if (value >= 0)
                     maxTestPerWeek = value;
+                else maxTestPerWeek = -value;
             }
         }
 
@@ -150,12 +154,18 @@ namespace BE
             testerInfo += "ID: " + ID + "\n";
             testerInfo += gender + " " + birthDate + "\n";
             testerInfo += address.street + " " + address.buildingNum + ", " + address.city + " " + phoneNum + "\n"; //הפרדה של הכתובת בשביל שידפיס טוב%
-            testerInfo += "Vehicle type: "; 
-            foreach (VehicleType v in vehicleType)
-                testerInfo += v + ", ";
-            testerInfo += "Gear box: "; 
-            foreach (GearBox g in gearBox)
-                testerInfo += g + ", ";
+            if (vehicleType!= null)
+            {
+                testerInfo += "Vehicle type: ";
+                foreach (VehicleType v in vehicleType)
+                    testerInfo += v + ", ";
+            }
+            if (gearBox != null)
+            {
+                testerInfo += "Gear box: ";
+                foreach (GearBox g in gearBox)
+                    testerInfo += g + ", ";
+            }
             testerInfo += "\nCertificate validity: " +validCertification + "\n";
             float myRating = rating.sumOfRatings / rating.numOfRaters;
             testerInfo += "Years of experience: " + experienceYears;

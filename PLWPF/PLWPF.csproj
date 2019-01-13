@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
@@ -71,6 +72,15 @@
     <Compile Include="Administration.xaml.cs">
       <DependentUpon>Administration.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DeleteTesterWindow.xaml.cs">
+      <DependentUpon>DeleteTesterWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteTestWindow.xaml.cs">
+      <DependentUpon>DeleteTestWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteTraineeWindow.xaml.cs">
+      <DependentUpon>DeleteTraineeWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Linq.xaml.cs">
       <DependentUpon>Linq.xaml</DependentUpon>
     </Compile>
@@ -79,12 +89,6 @@
     </Compile>
     <Compile Include="mainTesterWindows.xaml.cs">
       <DependentUpon>mainTesterWindows.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="rateTester.xaml.cs">
-      <DependentUpon>rateTester.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="RatingStar.xaml.cs">
-      <DependentUpon>RatingStar.xaml</DependentUpon>
     </Compile>
     <Compile Include="Tester.xaml.cs">
       <DependentUpon>Tester.xaml</DependentUpon>
@@ -97,9 +101,6 @@
     </Compile>
     <Compile Include="UpdateTrainee.xaml.cs">
       <DependentUpon>UpdateTrainee.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="UpdateTraineeInfo.xaml.cs">
-      <DependentUpon>UpdateTraineeInfo.xaml</DependentUpon>
     </Compile>
     <Page Include="addTest.xaml">
       <SubType>Designer</SubType>
@@ -114,6 +115,18 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Administration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteTesterWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteTestWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteTraineeWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -141,14 +154,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="rateTester.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="RatingStar.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="Tester.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -162,10 +167,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="UpdateTrainee.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="UpdateTraineeInfo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -224,10 +225,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\time_icon.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\grey_star.JPG" />
-    <Resource Include="images\yellow_star.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

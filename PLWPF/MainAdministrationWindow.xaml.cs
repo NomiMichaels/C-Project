@@ -24,10 +24,27 @@ namespace PLWPF
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             Window addTesterWindow = new addTesterWindow();
             addTesterWindow.Show();
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Window deleteTesterWindow = new DeleteTesterWindow();
+            deleteTesterWindow.Show();
+        }
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Window deleteTestWindow = new DeleteTesterWindow();
+            deleteTestWindow.Show();
+        }
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            Window deleteTraineeWindow = new DeleteTraineeWindow();
+            deleteTraineeWindow.Show();
+        }
+
     }
 }
